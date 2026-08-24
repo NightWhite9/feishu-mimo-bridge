@@ -5,7 +5,7 @@ license: MIT
 compatibility: Windows + Python 3.11 + lark-cli + mimo(@mimo-ai/cli)
 metadata:
   version: 1.0.0
-  author: mayifan
+  author: NightWhite9
   created: 2026-08-24
   verified: true
   verification_date: 2026-08-24
